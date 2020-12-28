@@ -1,1 +1,1 @@
-# teanslator
+# translator
